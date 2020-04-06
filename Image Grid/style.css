@@ -9,6 +9,11 @@
   margin: auto;
 }
 
+div > img {
+  border: 1.5px solid #ccc;
+  box-shadow: 0 1px #aaa;
+}
+
 .horizontal {
   grid-column: span 2;
 }
